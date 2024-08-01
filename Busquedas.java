@@ -10,7 +10,7 @@ public class Busquedas {
     
     Scanner sc;     // Scanner
     float clave;    // clave a buscar en el arreglo
-    int res;        // almecanr índice
+    int res;        // almacenar índice
     
     public Busquedas(String busqueda, float array[]){
         sc = new Scanner(System.in);
